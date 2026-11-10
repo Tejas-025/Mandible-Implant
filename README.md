@@ -143,6 +143,7 @@ Physiological muscle traction loads were distributed across physiological insert
 ### 4. Interactive Web-Based Digital Twin (Python)
 
 To allow clinical teams and engineers to inspect telemetry without requiring specialized CAD/FEA licenses, an interactive web-based digital twin was constructed in **Python** using Dash, Plotly, and Trimesh:
+LINK https://tejas-025.github.io/MandibleDigitalTwin/
 
 * **3D Interactive Mesh Viewer:** Full WebGL rotation, pan, zoom, and section cut of patient mandibular bone, tumor volume, resection planes, and implant framework.
 * **Stress Telemetry Contours:** Real-time spatial mapping of nodal von Mises stress and deformation fields with adjustable scalar ranges.
@@ -255,7 +256,6 @@ Open `http://127.0.0.1:8050/` in your browser to view the 3D mandible implant mo
 
 **Sarvesh Sunil Deshpande**  
 B.E. Mechanical Engineering, KLS Gogte Institute of Technology  
-B.S. Electronic Systems, Indian Institute of Technology Madras  
 *Portfolio:* [sarveshdeshpande.dev](https://sarveshdeshpande.dev) · *LinkedIn:* [linkedin.com/in/sarvesh-deshpande](https://linkedin.com/in/sarvesh-deshpande)
 
 If you reference this workflow, design framework, or simulation data, please cite:
@@ -263,7 +263,7 @@ If you reference this workflow, design framework, or simulation data, please cit
 ```bibtex
 @article{deshpande2026mandible,
   title={Patient-Specific Mandible Implant Design Combining CBCT Modeling, Generative Latticing, Non-Linear Biomechanical FEA, and a Web-Based Digital Twin},
-  author={Deshpande, Sarvesh Sunil},
+  author={Deshpande, Sarvesh },
   journal={Biomedical Engineering & Additive Manufacturing Repository},
   year={2026}
 }
