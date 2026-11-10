@@ -256,7 +256,7 @@ Open `http://127.0.0.1:8050/` in your browser to view the 3D mandible implant mo
 
 **Sarvesh Sunil Deshpande**  
 B.E. Mechanical Engineering, KLS Gogte Institute of Technology  
-*Portfolio:* [sarveshdeshpande.dev](https://sarveshdeshpande.dev) · *LinkedIn:* [linkedin.com/in/sarvesh-deshpande](https://linkedin.com/in/sarvesh-deshpande)
+*Portfolio:* [sarveshdeshpande.dev](https://sarveshdeshpande.page) · *LinkedIn:* [linkedin.com/in/sarvesh-deshpande](https://www.linkedin.com/in/sarvesh-deshpandesd/)
 
 If you reference this workflow, design framework, or simulation data, please cite:
 
